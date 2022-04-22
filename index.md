@@ -1,4 +1,4 @@
-## 欢迎来到ZT刘的网页~
+## 欢迎来到zt刘的网站~
 
 You can use the [editor on GitHub](https://github.com/ZTL05/mybest.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
